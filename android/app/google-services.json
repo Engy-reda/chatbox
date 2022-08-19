@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "296525816191",
+    "project_id": "aghapy-c37d4",
+    "storage_bucket": "aghapy-c37d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296525816191:android:6997c7bb68dc4d0ae8fa4a",
+        "android_client_info": {
+          "package_name": "com.app.aghapy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296525816191-901iol1a6d0fueavdutkf3846caa8b93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYKlhZGRAFmSBsprKDI5tRxnGliNi0hnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296525816191-901iol1a6d0fueavdutkf3846caa8b93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296525816191:android:ce899e099c02098ee8fa4a",
+        "android_client_info": {
+          "package_name": "com.engy.chatbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296525816191-901iol1a6d0fueavdutkf3846caa8b93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYKlhZGRAFmSBsprKDI5tRxnGliNi0hnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296525816191-901iol1a6d0fueavdutkf3846caa8b93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296525816191:android:8994676ebe9b549de8fa4a",
+        "android_client_info": {
+          "package_name": "com.example.aghapy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296525816191-901iol1a6d0fueavdutkf3846caa8b93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYKlhZGRAFmSBsprKDI5tRxnGliNi0hnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296525816191-901iol1a6d0fueavdutkf3846caa8b93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
